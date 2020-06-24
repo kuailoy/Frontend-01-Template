@@ -2,7 +2,10 @@
 
 ## 异步编程
 
+- setTimeout
+- promise
 - generator / iterator
+- async / await
 
 <!-- ```javascript
 
@@ -10,8 +13,12 @@ for await()
 
 ``` -->
 
-深度优先搜索 递归 stack 无法找到最优路径
-广度优先搜索 queue --> 最优路径
+## 寻路算法
+
+- 深度优先搜索： 递归 / stack --> 无法找到最优路径
+- 广度优先搜索: queue --> 最优路径
+- A-Star
+- 启发式算法
 
 > leetcode tag: breadth-first search
 
@@ -24,5 +31,4 @@ for await()
 - match
   - \(\)可以捕获，不捕获 ?:
 - replace
-
 - exec
